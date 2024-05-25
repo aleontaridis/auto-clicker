@@ -3,4 +3,5 @@ This is an Auto Clicker (is not the fastest, but it is an Auto Clicker). Home ke
 Make a shortcut for the aclicker.exe to put it in Desktop.
 Made by Mark-Tony Leontaridis, GitHub: https://github.com/aleontaridis
 <br>
+<br>
 CPS: 12 - 13
